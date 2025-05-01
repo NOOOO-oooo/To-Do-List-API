@@ -3,7 +3,7 @@ https://roadmap.sh/projects/todo-list-api
 
 A simple Todo list API where users can sign up/in and create multiple lists.
 it's a mix between a todo list and a task manager.
-The user can change his profile picture and add one picture related to the task's content.
+The user can change their profile picture and add one picture related to the task's content.
 
 Dependecies used:
 -Express
